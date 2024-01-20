@@ -40,3 +40,6 @@ Important Note
 Please ensure that you have the necessary dependencies and configurations in place before running the application. For any issues or concerns, feel free to contact us.
 
 Thank you for using "The Green Area" web app! 🌿
+
+## Backend Repo: https://github.com/kafle-kalyan1/Backend.git
+## Frontend Repo: https://github.com/kafle-kalyan1/Frontend.git
